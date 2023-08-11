@@ -2212,6 +2212,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
+			padding: 0.6em;
 			background-color: #2874a6;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: center;
@@ -2526,8 +2527,8 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #85c1e9;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/data1.jpg"), url("../../images/banner.jpg");
+		background-color: #044068;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/dat7.jpg"), url("../../images/banner.jpg");
 		background-position: center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2546,10 +2547,10 @@ input, select, textarea {
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba( 46, 134, 193, 0.5);
-			color: #fff;
+			background: rgba(0, 0, 0, 0.5);
+			color: #ffffff;
 			display: inline-block;
-			opacity: 0;
+			opacity: 1;
 			padding: 3em;
 			text-align: center;
 		}

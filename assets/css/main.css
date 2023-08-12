@@ -1943,13 +1943,13 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook-f {
-				background: #7490c3;
+			.icon.circle.fa-linkedin {
+				background: #446ebc;
 				color: #fff;
 			}
 
-				.icon.circle.fa-facebook-f:hover {
-					background: #829bc9;
+				.icon.circle.fa-linkedin:hover {
+					background: #2f67ce;
 				}
 
 			.icon.circle.fa-google-plus-g {
@@ -2527,13 +2527,14 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #044068;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/dat7.jpg"), url("../../images/banner.jpg");
+		background-color: #839fb1;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/data9.jpg"), url("../../images/banner.jpg");
 		background-position: center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: #fff;
+		color: #ffff;
 		cursor: default;
+		opacity: 1;
 		padding: 6em 0;
 		text-align: center;
 	}
@@ -2547,8 +2548,8 @@ input, select, textarea {
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(0, 0, 0, 0.5);
-			color: #ffffff;
+			background: rgba(2, 69, 132, 0.951);
+			color: #ffff;
 			display: inline-block;
 			opacity: 1;
 			padding: 3em;
